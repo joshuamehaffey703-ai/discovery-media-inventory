@@ -10,7 +10,7 @@ Prefer to start in a spreadsheet? [Download the blank CSV](https://raw.githubuse
 
 1. Assign a short ID, such as `REC-001`. Copy the original filename and its folder or disc label. Two cameras can produce files with the same name.
 2. Try a working copy in your usual player. Record the player, whether the file opened, and the duration it displayed. Enter `Unknown` for a duration you could not measure.
-3. Use elapsed time from the start of that file for the first audible sound and the review range. Enter times as `hh:mm:ss`. Keep any clock time visible on the footage in the notes and label it as clock time.
+3. Use elapsed time from the start of that file for the first audible sound and the review range. Enter times as `hh:mm:ss`. If you also need the clock time visible on the footage, use the [video timestamp calculator](https://mehaffeytranscription.com/static/tools/video-timestamp-calculator/index.html) and label that time separately in your notes.
 4. Describe an observation someone else can check. For example, “Picture begins at 00:00:00. First audible speech at 00:00:31.” Use the follow-up column for a specific action, such as “Compare with second camera.”
 
 | If you encounter this | What to record | Worked example or reference |
