@@ -2,7 +2,9 @@
 
 Use this free worksheet to keep track of recordings in a discovery production. It gives a reviewer one place to see which files opened, where audio began, and which passages need a second listen. The CSV opens in Excel, Numbers, or LibreOffice.
 
-**[Download the blank inventory](https://raw.githubusercontent.com/joshuamehaffey703-ai/discovery-media-inventory/main/media-inventory.csv)** and save a working copy in your matter folder. Keep case names, filenames, and review notes in that local copy. This public repository contains only the blank worksheet.
+**[Open the free discovery media inventory](https://mehaffeytranscription.com/static/tools/discovery-media-inventory/index.html)** to start with the recordings on your device. The tool fills in filenames and reads durations where your browser supports the format. Add your review notes and export a CSV before closing the tab. Your files and notes stay on your device.
+
+Prefer to start in a spreadsheet? [Download the blank CSV](https://raw.githubusercontent.com/joshuamehaffey703-ai/discovery-media-inventory/main/media-inventory.csv) and save a working copy in your matter folder.
 
 ## Fill in one row per recording
 
