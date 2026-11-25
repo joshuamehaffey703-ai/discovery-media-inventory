@@ -6,6 +6,8 @@ Use this free worksheet to keep track of recordings in a discovery production. I
 
 Prefer to start in a spreadsheet? [Download the blank CSV](https://raw.githubusercontent.com/joshuamehaffey703-ai/discovery-media-inventory/main/media-inventory.csv) and save a working copy in your matter folder.
 
+To budget for a transcript, paste the durations for one case into the [bodycam transcription cost calculator](https://mehaffeytranscription.com/static/tools/transcription-cost-calculator/index.html?utm_source=github-worksheet&utm_medium=referral). It totals the recordings and gives you a printable base-price estimate.
+
 ## Fill in one row per recording
 
 1. Assign a short ID, such as `REC-001`. Copy the original filename and its folder or disc label. Two cameras can produce files with the same name.
@@ -21,4 +23,4 @@ Prefer to start in a spreadsheet? [Download the blank CSV](https://raw.githubuse
 
 If the production also includes a phone report, the [UFDR review checklist (PDF)](https://mehaffeytranscription.com/static/guides/ufdr-review-checklist.pdf) has room to record the report version, time zone, filters, and an attachment you expected to find.
 
-Published by [Mehaffey Transcription](https://mehaffeytranscription.com/). [Subscribe to the discovery guides by RSS](https://mehaffeytranscription.com/static/feeds/discovery-guides.xml).
+Published by [Mehaffey Transcription](https://mehaffeytranscription.com/). [Browse the free discovery tools](https://mehaffeytranscription.com/static/tools/index.html?utm_source=github-worksheet&utm_medium=referral) or [subscribe to the discovery guides by RSS](https://mehaffeytranscription.com/static/feeds/discovery-guides.xml).
