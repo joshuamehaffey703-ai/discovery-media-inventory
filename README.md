@@ -19,4 +19,6 @@ Prefer to start in a spreadsheet? [Download the blank CSV](https://raw.githubuse
 | A surveillance export has a `.dav` extension | Exact filename, player tried, and the error it showed | [How to open a DAV surveillance export](https://mehaffeytranscription.com/resources/play-dav-video-file) |
 | A call needs a transcript excerpt | Recording ID and elapsed start and end of the passage | [See a timestamped 911 call transcript](https://mehaffeytranscription.com/sample/call-911) |
 
-Published by [Mehaffey Transcription](https://mehaffeytranscription.com/).
+If the production also includes a phone report, the [UFDR review checklist (PDF)](https://mehaffeytranscription.com/static/guides/ufdr-review-checklist.pdf) has room to record the report version, time zone, filters, and an attachment you expected to find.
+
+Published by [Mehaffey Transcription](https://mehaffeytranscription.com/). [Subscribe to the discovery guides by RSS](https://mehaffeytranscription.com/static/feeds/discovery-guides.xml).
